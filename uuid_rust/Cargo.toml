@@ -1,0 +1,11 @@
+[package]
+name = "uuid_rust"
+version = "0.1.0"
+edition = "2018"
+authors = ["Avery Murray <averylapine@gmail.com>"]
+license-file = "../LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "*"
